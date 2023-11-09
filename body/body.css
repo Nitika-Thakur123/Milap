@@ -1,0 +1,57 @@
+#btn{
+    width: 24%;
+    margin: auto;
+    /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
+    margin-bottom: 20px;
+
+}
+#milaap{
+    display: flex;
+    margin-left: 80px;
+    height: 400px;
+    margin-top: 10px;
+    justify-content: space-between;
+    
+}
+#milaap > div> button{
+    background-color: rgb(218, 31, 90);
+    width: 60%;
+    height: 40px;
+    border-radius: 10px;
+    color: white;
+
+}
+#img{
+    height: 80%;
+    border: 1px solid green;
+}
+#fund{
+    display: flex;
+    gap:12px
+}
+.brown{
+    color: rgb(218, 31, 90);
+}
+#speaker{
+    display: flex;
+    width: 50%;
+    justify-content: center;
+    margin: auto;
+    background-color: rgb(221, 197, 214);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    
+}
+#speaker> div > img{
+    width: 50px;
+    height: 55px;
+}
+h2{
+    margin-left: 100px;
+    color: rgb(232, 146, 206);
+    font-size: 30px;
+}
+#para > p{
+    background-color: rgb(110, 105, 105);
+    font-size: larger;
+    
+}

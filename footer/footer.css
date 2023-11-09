@@ -1,0 +1,32 @@
+#container{
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 10px;
+    
+}
+button{
+    width: 70%;
+    height: 50px;
+    background-color: rgb(218, 31, 90);
+    color: white;
+    border-radius: 12px;
+}
+#price{
+    display: flex;
+    gap: 18px;
+}
+#fb{
+    height: 50px;
+    width: 70%;
+}
+#logo{
+    height: 150px;
+    
+}
+#card{
+    height: 100px;
+    width: 100%;
+    
+}
